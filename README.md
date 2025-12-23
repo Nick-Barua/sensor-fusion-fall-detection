@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="docs/sums-logo.png" width="200" title="Shiga University of Medical Science">
+  <a href="https://www.shiga-med.ac.jp/english">
+    <img src="docs/sums-logo.png" width="300" alt="Shiga University of Medical Science Logo">
+  </a>
 </p>
+
 
 # Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
