@@ -1,12 +1,9 @@
-
 # Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Journal: Vehicles](https://img.shields.io/badge/Journal-Vehicles-blue.svg)](https://doi.org/10.3390/vehicles7040149)
 [![Affiliation: SUMS](https://img.shields.io/badge/Affiliation-Shiga_University_of_Medical_Science-red.svg)](https://www.shiga-med.ac.jp/english)
 
 ### Quantitative Evaluation for Enhanced Vehicle Safety
-# sensor-fusion-fall-detection
-# Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans
 
 This repository contains the software framework and quantitative evaluation for the **Advanced Falling Object Detection System (AFODS)**, as published in *Vehicles* (2025). 
 
@@ -14,6 +11,8 @@ AFODS is designed to enhance vehicle safety by detecting and predicting human fa
 
 ## 📌 Abstract
 Collisions with fallen pedestrians pose a lethal challenge to current ADAS. This project introduces a safety framework that architecturally integrates **Long-Wave Infrared (LWIR)**, **Near-Infrared (NIR) Stereo**, and **Ultrasonic sensors**. The system utilizes a custom AI pipeline combining **YOLOv7-Tiny** for detection and a **Recurrent Neural Network (RNN)** for proactive threat assessment.
+
+
 
 ## 🛠 System Architecture
 * **Sensors:** LWIR Thermal Imaging, NIR Stereo Vision, and Ultrasonic Transducers.
@@ -34,6 +33,13 @@ The system was validated using Anthropomorphic Test Devices (ATDs) and pneumatic
 
 ---
 
+## 🤝 Acknowledgments
+This research was supported by and conducted at the **Department of Legal Medicine, Shiga University of Medical Science**, Otsu, Shiga, Japan. 
+
+We would like to acknowledge the contribution of the university’s laboratory facilities, specifically for providing the controlled environment required for the pneumatic fall-rig experiments and the validation of the **AFODS** framework.
+
+---
+
 ## 📝 Citation
 
 If you use this research or the AFODS framework in your work, please cite the original article:
@@ -51,9 +57,3 @@ If you use this research or the AFODS framework in your work, please cite the or
     DOI = {10.3390/vehicles7040149},
     URL = {[https://doi.org/10.3390/vehicles7040149](https://doi.org/10.3390/vehicles7040149)}
 }
----
-
-## 🤝 Acknowledgments
-This research was supported by and conducted at the **Department of Legal Medicine, Shiga University of Medical Science**, Otsu, Shiga, Japan. 
-
-We would like to acknowledge the contribution of the university’s laboratory facilities, specifically for providing the controlled environment required for the pneumatic fall-rig experiments and the validation of the **AFODS** framework.
