@@ -38,3 +38,20 @@ git clone [https://github.com/yourusername/sensor-fusion-fall-detection.git](htt
 
 # Install dependencies
 pip install -r requirements.txt
+---
+
+## 📄 Article & Publications
+You can read the full technical paper detailing the methodology and results here:
+* **[Read the Full Article: Advanced Multi-Modal Sensor Fusion System](INSERT_LINK_TO_YOUR_ARTICLE_HERE)**
+
+## 📑 Citation
+If you find this work useful for your research, please use the following BibTeX entry:
+
+```bibtex
+@article{yourname2025,
+  title={Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans: Quantitative Evaluation for Enhanced Vehicle Safety},
+  author={Your Name and Co-authors},
+  journal={Name of Journal or Conference},
+  year={2025},
+  url={INSERT_LINK_TO_YOUR_ARTICLE_HERE}
+}
