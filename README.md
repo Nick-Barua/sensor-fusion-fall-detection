@@ -1,3 +1,9 @@
+# Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Journal: Vehicles](https://img.shields.io/badge/Journal-Vehicles-blue.svg)](https://doi.org/10.3390/vehicles7040149)
+[![Affiliation: SUMS](https://img.shields.io/badge/Affiliation-Shiga_University_of_Medical_Science-red.svg)](https://www.shiga-med.ac.jp/english)
+
+### Quantitative Evaluation for Enhanced Vehicle Safety
 # sensor-fusion-fall-detection
 # Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans
 
