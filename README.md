@@ -44,14 +44,26 @@ pip install -r requirements.txt
 You can read the full technical paper detailing the methodology and results here:
 * **[Read the Full Article: Advanced Multi-Modal Sensor Fusion System](INSERT_LINK_TO_YOUR_ARTICLE_HERE)**
 
-## 📑 Citation
-If you find this work useful for your research, please use the following BibTeX entry:
+---
 
+## 📝 Citation
+
+If you use this work or the provided code in your research, please cite the original article:
+
+**APA Style:**
+Barua, N., & Hitosugi, M. (2025). Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans: Quantitative Evaluation for Enhanced Vehicle Safety. *Vehicles*, 7(4), 149. https://doi.org/10.3390/vehicles7040149
+
+**BibTeX:**
 ```bibtex
-@article{yourname2025,
-  title={Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans: Quantitative Evaluation for Enhanced Vehicle Safety},
-  author={Your Name and Co-authors},
-  journal={Name of Journal or Conference},
-  year={2025},
-  url={INSERT_LINK_TO_YOUR_ARTICLE_HERE}
+@article{vehicles7040149,
+    AUTHOR = {Barua, Nick and Hitosugi, Masahito},
+    TITLE = {Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans: Quantitative Evaluation for Enhanced Vehicle Safety},
+    JOURNAL = {Vehicles},
+    VOLUME = {7},
+    YEAR = {2025},
+    NUMBER = {4},
+    PAGES = {149},
+    URL = {[https://www.mdpi.com/2624-8921/7/4/149](https://www.mdpi.com/2624-8921/7/4/149)},
+    ISSN = {2624-8921},
+    DOI = {10.3390/vehicles7040149}
 }
