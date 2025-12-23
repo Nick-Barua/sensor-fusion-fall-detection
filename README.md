@@ -1,9 +1,17 @@
 <p align="center">
-  <a href="https://www.shiga-med.ac.jp/english">
-    <img src="docs/sums-logo.png" width="300" alt="Shiga University of Medical Science Logo">
+  <a href="https://www.shiga-med.ac.jp/english/">
+    <img src="https://raw.githubusercontent.com/Nick-Barua/sensor-fusion-fall-detection/main/docs/sums-logo.png" width="350" alt="Shiga University of Medical Science">
   </a>
 </p>
 
+<h1 align="center">Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans</h1>
+<p align="center"><b>Quantitative Evaluation for Enhanced Vehicle Safety</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-Dr._Nick_Barua-blue.svg">
+  <img src="https://img.shields.io/badge/Affiliation-Shiga_University_of_Medical_Science-red.svg">
+  <img src="https://img.shields.io/badge/Journal-Vehicles_2025-green.svg">
+</p>
 
 # Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
