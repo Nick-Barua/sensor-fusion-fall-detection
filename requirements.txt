@@ -1,0 +1,15 @@
+# Image and Video Processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Machine Learning / Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Analysis (for your Quantitative Evaluation)
+pandas>=2.0.0
+matplotlib>=3.7.0
+scipy>=1.10.0
+
+# Sensor Data Processing
+pyyaml>=6.0
