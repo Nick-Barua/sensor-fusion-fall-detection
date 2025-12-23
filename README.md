@@ -50,7 +50,9 @@ If you use this research or the AFODS framework in your work, please cite the or
     DOI = {10.3390/vehicles7040149},
     URL = {[https://doi.org/10.3390/vehicles7040149](https://doi.org/10.3390/vehicles7040149)}
 }
-## 🤝 Acknowledgments
-This research was conducted at the **Department of Legal Medicine, Shiga University of Medical Science**, Otsu, Shiga, Japan. 
+---
 
-We extend our gratitude to the university for providing the facilities and resources necessary for the development of the **AFODS** (Advanced Falling Object Detection System) and for supporting the quantitative evaluation through pneumatic fall-rig experiments.
+## 🤝 Acknowledgments
+This research was supported by and conducted at the **Department of Legal Medicine, Shiga University of Medical Science**, Otsu, Shiga, Japan. 
+
+We would like to acknowledge the contribution of the university’s laboratory facilities, specifically for providing the controlled environment required for the pneumatic fall-rig experiments and the validation of the **AFODS** framework.
