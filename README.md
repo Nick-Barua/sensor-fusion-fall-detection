@@ -1,7 +1,6 @@
 <p align="center">
   <img src="docs/sums-logo.png" width="200" title="Shiga University of Medical Science">
 </p>
-
 # Advanced Multi-Modal Sensor Fusion System...
 # Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
