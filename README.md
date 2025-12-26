@@ -74,13 +74,3 @@ If you use this research or the AFODS framework in your work, please cite the or
     DOI = {10.3390/vehicles7040149},
     URL = {[https://doi.org/10.3390/vehicles7040149](https://doi.org/10.3390/vehicles7040149)}
 }
-### Final Recommendations for the Repo:
-1.  **Add `CITATION.cff`**: This is a separate file that makes the "Cite this repository" button appear on your sidebar.
-2.  **Add `requirements.txt`**: Since you mention YOLOv7 and RNN, include the following libraries:
-    * `torch`
-    * `opencv-python`
-    * `numpy`
-    * `onnxruntime`
-3.  **Image Upload**: Rename your system flowchart image to `sensor-fusion-diagram.png` (or similar) and update the link in the README.
-
-**Would you like me to generate the `CITATION.cff` file content so you can just copy-paste that into a new file as well?**
