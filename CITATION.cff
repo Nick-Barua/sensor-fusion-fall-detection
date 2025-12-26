@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this system or the AFODS framework, please cite the original article as below."
+authors:
+- family-names: "Barua"
+  given-names: "Nick"
+- family-names: "Hitosugi"
+  given-names: "Masahito"
+title: "Advanced Multi-Modal Sensor Fusion System for Detecting Falling Humans: Quantitative Evaluation for Enhanced Vehicle Safety"
+doi: 10.3390/vehicles7040149
+date-released: 2025-10-25
+url: "https://github.com/Nick-Barua/sensor-fusion-fall-detection"
