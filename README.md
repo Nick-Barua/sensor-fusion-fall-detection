@@ -36,7 +36,7 @@ The system was validated using Anthropomorphic Test Devices (ATDs) and pneumatic
 ## 🤝 Acknowledgments
 This research was supported by and conducted at the **Department of Legal Medicine, Shiga University of Medical Science**, Otsu, Shiga, Japan. 
 
-We would like to acknowledge the contribution of the university’s laboratory facilities, specifically for providing the controlled environment required for the pneumatic fall-rig experiments and the validation of the **AFODS** framework.
+ [Kinetik Dynamics](https://kinetik.tech/) for their insightful guidance and technical expertise, which were instrumental in the conceptual development of the system’s hardware architecture presented in this paper. 
 
 ---
 
